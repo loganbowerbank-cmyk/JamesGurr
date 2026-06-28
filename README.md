@@ -1,1 +1,1 @@
-Site URL: https://github.com/loganbowerbank-cmyk/Phillips/blob/main/
+https://github.com/loganbowerbank-cmyk/JamesGurr/blob/main/index.html
