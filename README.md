@@ -1,1 +1,1 @@
-https://github.com/loganbowerbank-cmyk/JamesGurr/blob/main/index.html
+https://loganbowerbank-cmyk.github.io/JamesGurr/
